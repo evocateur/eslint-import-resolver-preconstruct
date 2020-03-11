@@ -1,6 +1,6 @@
 {
   "name": "eslint-import-resolver-preconstruct",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Resolve preconstruct dev modules for eslint-plugin-import",
   "keywords": [
     "eslint",
